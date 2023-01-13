@@ -1,2 +1,3 @@
-# KI-LP_55-Anki-tentamina
-Anki-deck av gamla tentamen från KIs 5,5-åriga läkarprogram
+# KI 5,5-åriga läkaprogram - gamla tentamen i Ankiformat
+
+Gamla tentamen som Anki-deck under "Releases".
